@@ -1,0 +1,8 @@
+{
+    "BaseURL":"https://staging-latest-apps.abacus.ai",
+    "name":"uday",
+    "email":"uday01@getnada.com",
+    "invalidEmail":"uday01@",
+    "password":"Test@1234",
+    "invalidPassword":"Test"
+}
